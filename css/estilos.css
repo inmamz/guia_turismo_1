@@ -1,0 +1,82 @@
+body{
+	background-color:papayawhip;
+}
+
+#inicio{
+	text-align:center;
+}
+
+#inicio h1{
+	color:darkred;
+	font-size:48px;
+	font-weight:900;
+	font-style:normal;
+}
+
+.primer_subtitulo{
+	color:darksletegrey;
+	font-size:24px;
+	font-style:italic;
+	margin:25px;
+}
+
+.menu_navegacion ul{
+	list-style:none;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	gap:35px;
+	padding:10px;
+}
+
+.menu_navegacion a{
+	padding:15px;
+	margin:10px;
+	border:2px solid darkred;
+	border-radius:20px;
+	text-decoration:none;
+	color:darkred;
+	background-color:khaki;
+}
+
+
+#distritos{
+	color:darkred;
+	font-size:32px;
+	text-align:center;
+}
+
+
+.class{
+	font-size:28px;
+}
+
+.parrafo_gris{
+	font-size:18px;
+	text-align:justify;
+	color:dimgrey;
+}
+
+#rutas{
+	color:darkgreen;
+	font-size:32px;
+	text-align:center;
+}
+
+
+#contacto{
+	color:navy;
+	font-size:32px;
+	text-align:center;
+}
+
+.form_contacto{
+	color:black;
+	font-size:18px;
+}
+
+.pie_pag{
+	font-size:16px;
+	color:dimgrey;
+	font-style:italic;
+}
